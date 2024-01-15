@@ -1,0 +1,5 @@
+# client
+include /client/.gitignore
+
+# backend
+include /backend/.gitignore
